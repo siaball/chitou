@@ -90,6 +90,7 @@
 			});
 		})
 	</script>
+	
 	<script src="js/coco/hotelsstyle/bootstrap.bundle.min.js"></script>
        	<script src="js/coco/hotelsstyle/tiny-slider.js"></script>
        	<script src="js/coco/hotelsstyle/h/aos.js"></script>
